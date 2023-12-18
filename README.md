@@ -46,4 +46,14 @@ const aboutMe = {
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andrewsy1004&theme=algolia">
 </a>
 
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Andrewsy1004"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Andrewsy1004-blue?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/andres-felipe-sosa-yepes-13670220a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andres%20Felipe%20Sosa%20Yepes-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+
+
 
