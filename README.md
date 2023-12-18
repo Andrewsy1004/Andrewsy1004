@@ -39,7 +39,7 @@ const aboutMe = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <p align="center">
-<a href="https://github.com/Andrewsy1004"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-oardilac-blue?style=flat-square&logo=github"></a>
-<a href="www.linkedin.com/in/andres-felipe-sosa-yepes-13670220a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oliver%20David%20Ardila%20Cueto-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://github.com/Andrewsy1004"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Andrewsy1004-blue?style=flat-square&logo=github"></a>
+<a href="www.linkedin.com/in/andres-felipe-sosa-yepes-13670220a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrewsy1004%20David%20Ardila%20Cueto-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
