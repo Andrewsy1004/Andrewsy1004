@@ -38,8 +38,9 @@ const aboutMe = {
   <img style="margin: auto;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt=java width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<p align="center">
-<a href="https://github.com/Andrewsy1004"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Andrewsy1004-blue?style=flat-square&logo=github"></a>
-<a href="www.linkedin.com/in/andres-felipe-sosa-yepes-13670220a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrewsy1004%20David%20Ardila%20Cueto-blue?style=flat-square&logo=linkedin"></a>
-</p>
+<a href="https://github.com/oardilac">
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andrewsy1004&theme=algolia&langs_count=16&show_icons=true"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andrewsy1004&theme=algolia">
+</a>
+<br/>
 
