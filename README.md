@@ -16,7 +16,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL","PostgreSQL"],
+      databases: ["MongoDB", "mySQL"],
    },
    challenge: "Now I am studying to become a fullstack developer.",
 };
