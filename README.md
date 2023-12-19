@@ -41,7 +41,7 @@ const aboutMe = {
 <br/>
 <br/>
 
-<a href="https://github.com/oardilac">
+<a href="https://github.com/Andrewsy1004">
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andrewsy1004&theme=algolia&langs_count=16&show_icons=true"/>
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andrewsy1004&theme=algolia">
 </a>
