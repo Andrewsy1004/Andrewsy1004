@@ -7,14 +7,14 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java],
+   code: [Javascript, HTML, CSS, Python, Java,ReactJs],
    learning: [Typescript],
    technologies: {
       mobile: {
          nativo: ["Android Studio"]
       },
       frontEnd: {
-         css: ["Tailwind","Bootstrap","ReactJs"]
+         css: ["Tailwind","Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
