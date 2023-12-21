@@ -11,7 +11,7 @@ const aboutMe = {
    learning: [Typescript],
    technologies: {
       mobile: {
-         nativo: ["Android Studio"]
+         native: ["Android Studio"]
       },
       frontEnd: {
          css: ["Tailwind","Bootstrap"]
