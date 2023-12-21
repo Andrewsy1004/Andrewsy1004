@@ -10,6 +10,9 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java],
    learning: [Typescript],
    technologies: {
+      mobile: {
+         nativo: ["Android Studio"]
+      },
       frontEnd: {
          css: ["Tailwind","Bootstrap","ReactJs"]
       },
