@@ -22,7 +22,7 @@ const aboutMe = {
       databases:{
         Sql:   ["mySQL","postgresql"],
         NoSql: ["MongoDB","Firabase"],
-      }
+      },
       Cloud: ["Aws"]
    },
    challenge: "Now I am studying to become a fullstack developer.",
