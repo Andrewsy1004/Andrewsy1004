@@ -19,7 +19,10 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express","Nest.js"],
       },
-      databases: ["MongoDB", "mySQL","Firabase","postgresql"],
+      databases:{
+        Sql:   ["mySQL","postgresql"],
+        NoSql: ["MongoDB","Firabase"],
+      }
       Cloud: ["Aws"]
    },
    challenge: "Now I am studying to become a fullstack developer.",
