@@ -11,15 +11,16 @@ const aboutMe = {
    learning: [Typescript],
    technologies: {
       mobile: {
-         native: ["Android Studio"]
+         native: ["Android Studio","React Native"]
       },
       frontEnd: {
          css: ["Tailwind","Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express","Nest.js"],
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "mySQL","Firabase","postgresql"],
+      Cloud: ["Aws"]
    },
    challenge: "Now I am studying to become a fullstack developer.",
 };
