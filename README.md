@@ -37,23 +37,22 @@ const aboutMe = {
 
 <h2>Skills and Tools: </h2>
 <div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=whit">
-  <img align="center" alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="R Studio" src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white">
-
+  <img align="center" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=express" alt="Express.js" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=react" alt="React.js" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px;">
+  <img align="center" src="https://skillicons.dev/icons?i=r" alt="R Studio" style="width: 50px; height: 50px;">
 </div>
 <br>
 
