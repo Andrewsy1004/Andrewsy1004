@@ -36,7 +36,7 @@ const aboutMe = {
 ```
 
 <h2>Skills and Tools: </h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; height: 50px;">
   <img align="center" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px;">
   <img align="center" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; height: 50px;">
