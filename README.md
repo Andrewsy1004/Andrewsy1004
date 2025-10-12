@@ -53,16 +53,22 @@ const aboutMe = {
   <img align="center" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=react" alt="React.js" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
+  <img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
+  <img align="center" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
+  <img align="center" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
+  <img align="center" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
+  <img align="center" src="https://skillicons.dev/icons?i=flask" alt="Flask" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
+  <img align="center" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=r" alt="R Studio" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
-  <img align="center" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
   <img align="center" src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width: 50px; height: 50px; margin: 5px; border-radius: 50%;">
 </div>
+
 
 <br>
 
