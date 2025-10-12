@@ -2,10 +2,17 @@
 
 <!-- <h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Andres Sosa</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20everybody%20👋;I'm%20Andres%20Sosa;Full-stack%20developer%20and%20data%20science;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" /></a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi%20everybody%20👋;I'm%20Andres%20Sosa;Full-stack%20developer%20and%20data%20science;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
+
 
 
 <h3 align="center">Web Developer</h3>
