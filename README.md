@@ -1,44 +1,39 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrewsy1004&label=Profile%20views&color=0e75b6&style=flat" alt="Andrewsy1004" /> </p>
 
-<!-- <h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Andres Sosa</h1> -->
-
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20everybody%20👋;I'm%20Andres%20Sosa;Full-stack%20developer%20and%20data%20science;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" /></a>
-</p> -->
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Andrewsy1004&label=Profile%20views&color=0e75b6&style=flat" alt="Andrewsy1004" />
+</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi%20everybody%20👋;I'm%20Andres%20Sosa;Full-stack%20developer%20and%20data%20science;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%2C%20I'm%20Andres%20Sosa%20👋;AI%20Engineer%20%26%20Full-Stack%20Developer;Building%20LLM-powered%20applications;React%20·%20Node.js%20·%20Python%20·%20TensorFlow%2FPyTorch&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
-
-
-<h3 align="center">Web Developer</h3>
+<h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java,ReactJs],
-   learning: [Typescript],
+   pronouns: "he/him",
+   role: ["AI Engineer", "Full-Stack Developer"],
+   code: ["TypeScript", "Python", "Java"],
+   ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "LangChain","LangGraph"],
    technologies: {
       mobile: {
-         native: ["Android Studio","React Native"]
+         native: ["Android Studio", "React Native", "Flutter"]
       },
       frontEnd: {
-         css: ["Tailwind","Bootstrap"]
+         css: ["Tailwind", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express","Nest.js"],
+         js: ["Node", "Express", "Nest.js"],
+         python: ["Flask","Flash","Django"]
       },
-      databases:{
-        Sql:   ["mySQL","postgresql"],
-        NoSql: ["MongoDB","Firabase"],
+      databases: {
+         sql: ["MySQL", "PostgreSQL"],
+         noSql: ["MongoDB", "Firebase","Dynamodb"]
       },
-      Cloud: ["Aws"]
+      cloud: ["AWS","Digital Ocean"]
    },
-   challenge: "Now I am studying to become a fullstack developer.",
+   currentFocus: "Combining AI and full-stack development to build things people actually use",
 };
 ```
 
