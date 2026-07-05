@@ -1,10 +1,9 @@
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Andrewsy1004&label=Profile%20views&color=0e75b6&style=flat" alt="Andrewsy1004" />
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%2C%20I'm%20Andres%20Sosa%20👋;AI%20Engineer%20%26%20Full-Stack%20Developer;Building%20LLM-powered%20applications;React%20·%20Node.js%20·%20Python%20·%20TensorFlow%2FPyTorch&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I+am+Andres+Sosa;AI+Engineer+%26+Full-Stack+Developer;Building+LLM-powered+applications;React+%7C+Node.js+%7C+Python+%7C+TensorFlow%2FPyTorch&font=Fira+Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -25,7 +24,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express", "Nest.js"],
-         python: ["Flask","Flash","Django"]
+         python: ["FastApi","Flash","Django"]
       },
       databases: {
          sql: ["MySQL", "PostgreSQL"],
@@ -79,7 +78,3 @@ const aboutMe = {
   <a href="https://github.com/Andrewsy1004"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Andrewsy1004-blue?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/andres-felipe-sosa-yepes-13670220a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andres%20Felipe%20Sosa%20Yepes-blue?style=flat-square&logo=linkedin"></a>
 </p>
-
-
-
-
